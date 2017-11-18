@@ -1,7 +1,5 @@
 # burger
 
-NU Coding BootCamp Homework 12
-
 A simple app using [Node.js](https://nodejs.org/en/),
 [Express](http://expressjs.com/), [Handlebars](http://handlebarsjs.com/), and
 [MySQL](https://github.com/mysqljs/mysql).
